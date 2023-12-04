@@ -1,6 +1,6 @@
 body {
-    background: #303030;
-    color: #ffffff;
+    background: #ffffeb;
+    color: #000000;
     margin-left: 10%;
     margin-right: 10%;
     padding: 0;
@@ -13,6 +13,6 @@ p {
 }
 
 a {
-    color: #2a7bde;
+    color: #000099;
     text-decoration: none;
 }
